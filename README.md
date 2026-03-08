@@ -3,8 +3,7 @@
 This is my personal developer portfolio built using modern web technologies.
 
 ## 🚀 Live Website
-(After deployment add your link here)
-https://your-portfolio.vercel.app
+https://vish-portfolio-sigma.vercel.app/
 
 ## 🛠️ Tech Stack
 
@@ -21,12 +20,17 @@ https://your-portfolio.vercel.app
 - Skills section
 - Contact section
 
+## 🌐 Deployment
+
+-Deployed using Vercel.
+
+Deployed using Vercel.
 ## 📦 Installation
 
 Clone the repository and run locally:
 
 ```bash
-git clone https://github.com/yourusername/portfolio.git
-cd portfolio
+git clone https://github.com/vishnupriya-cheemalamarri/vish_portfolio.git
+cd vish_portfolio
 npm install
 npm run dev
