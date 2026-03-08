@@ -134,7 +134,9 @@ const HeroSection = () => {
             Contact Me
           </a>
           <a
-            href="#"
+            href="https://drive.google.com/file/d/1IY5jyqmifjkAMb70rcfXHZBRUlXNyq6P/view?usp=drivesdk"
+            target="_blank"
+            rel="noopener noreferrer"
             className="px-6 py-3 rounded-lg border border-border text-foreground font-medium hover:bg-secondary transition-colors"
           >
             <Download className="inline mr-2" size={16} />
