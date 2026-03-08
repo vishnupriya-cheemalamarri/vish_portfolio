@@ -52,6 +52,13 @@ const projects = [
     tags: ["HTML", "CSS", "JavaScript"],
     category: "Web",
   },
+  {
+    title: "ThinkBoard – MERN Notes App",
+    subtitle: "Full-stack Notes Application",
+    desc: "Full-stack notes application built with React, Node.js, Express.js, and MongoDB. Implemented REST APIs for note creation, editing, and deletion. Added backend rate limiting using Upstash Redis. Production server configuration serving React build. Implemented error handling and secure environment configuration",
+    tags: ["React", "Node.js", "Express.js", "MongoDB", "Redis"],
+    category: "Web",
+  },
 ];
 
 const categories = ["All", "AI", "Web", "Blockchain"];
